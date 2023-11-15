@@ -1,1 +1,0 @@
-# GalindezCasas_clase3

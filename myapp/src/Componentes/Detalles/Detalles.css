@@ -1,0 +1,30 @@
+.detalles{
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    gap:15px;
+    padding:5%;
+    font-size:1.2em;
+    color:black;
+}
+
+.detalles p{
+    text-align:justify;
+}
+
+.btn{
+    background-color: #4CCA5F;
+    color: white;
+    transition: all 1s ease;
+    padding:8px;
+    border:none;
+    border-radius: 8px;
+    cursor: pointer
+
+}
+
+.btn:hover{
+    background-color: #3C994A  ;
+    color:white;
+}
